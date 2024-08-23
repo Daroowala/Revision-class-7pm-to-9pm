@@ -20,7 +20,7 @@
  
 
 
-// if...else and else if statements
+// if...else statements
 // let x = prompt("Where does the Pope live?");
 //  if (x === "london") {
 //  alert("Correct!");
@@ -28,3 +28,17 @@
 //  else {
 //  alert("Wrong answer");
 //  }
+
+
+// if...else and else if statements
+// let x = prompt("Where does the Pope live?");
+// let y = Number (x);
+//   if (x === "london") {
+//   alert("Correct!");
+//   }
+//   else if (x === "" || Number(x)) {
+//     alert("Please enter a value");
+//   }
+//   else {
+//   alert("Wrong answer");
+//   }
