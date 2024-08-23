@@ -18,6 +18,13 @@
 //  alert("Correct!!!");
 //  }
  
+
+
+// if...else and else if statements
+// let x = prompt("Where does the Pope live?");
+//  if (x === "london") {
+//  alert("Correct!");
+//  }
 //  else {
-//     alert("Sorry, your answer is Wrong");
+//  alert("Wrong answer");
 //  }
