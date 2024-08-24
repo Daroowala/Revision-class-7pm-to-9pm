@@ -73,14 +73,19 @@
 
 
 // if statements nested
- let id = "rehan3@gmail.com";
- let password = "12345678";
-  if(id === "rehan3@gmail.com") {
-    if(password === "12345678"){
-        console.log("User login");
-    } else {
-        console.log("Wrong password");
-    }
-  } else {
-    console.log("Wrong id");
-  };
+//  let id = "rehan3@gmail.com";
+//  let password = "12345678";
+//   if(id === "rehan3@gmail.com") {
+//     if(password === "12345678"){
+//         console.log("User login");
+//     } else {
+//         console.log("Wrong password");
+//     }
+//   } else {
+//     console.log("Wrong id");
+//   };
+
+
+// Array
+// let cities = ["Atlanta", "Baltimore", "Chicago", "Denver", "Los Angeles", "Seattle"];
+// console.log(cities[3]);
