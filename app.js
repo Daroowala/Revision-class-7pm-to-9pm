@@ -89,3 +89,14 @@
 // Array
 // let cities = ["Atlanta", "Baltimore", "Chicago", "Denver", "Los Angeles", "Seattle"];
 // console.log(cities[3]);
+
+
+// Arrays Adding and removing elements
+// pop is deleted from last value in Array
+// push is add the value last in Array
+// let pets = [];
+// console.log(pets);
+
+// Arrays shift and unshift adding and removing start in Array
+let pets = ["dog", "cat", "hen", "parrot", "fish", "lizard"];
+console.log(pets);
