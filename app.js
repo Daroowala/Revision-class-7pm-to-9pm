@@ -98,5 +98,6 @@
 // console.log(pets);
 
 // Arrays shift and unshift adding and removing start in Array
-let pets = ["dog", "cat", "hen", "parrot", "fish", "lizard"];
-console.log(pets);
+// let pets = ["dog", "cat", "hen", "parrot", "fish", "lizard"];
+// console.log(pets);
+
