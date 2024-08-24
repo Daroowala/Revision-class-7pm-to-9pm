@@ -71,3 +71,16 @@
 // }
 
 
+
+// if statements nested
+ let id = "rehan3@gmail.com";
+ let password = "12345678";
+  if(id === "rehan3@gmail.com") {
+    if(password === "12345678"){
+        console.log("User login");
+    } else {
+        console.log("Wrong password");
+    }
+  } else {
+    console.log("Wrong id");
+  };
