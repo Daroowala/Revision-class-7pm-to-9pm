@@ -42,3 +42,32 @@
 //   else {
 //   alert("Wrong answer");
 //   }
+
+
+
+// Testing sets of conditions (&&)
+// let age = prompt ("Please enter your age");
+// let gender = prompt ("Please enter your gender");
+// let weight = prompt ("Please enter your weight");
+// let res = prompt ("Please enter your resedeince");
+// if (age >= 18 && weight <= 85 && gender === 'male' && res === 'pakistan'){
+//     alert("You are eligible for the Pakarmy");
+// }
+// else {
+//     alert("Sorry!!! You are not eligible for the Pakarmy");
+// }
+
+
+// Testing sets of conditions (||)
+// let age = prompt ("Please enter your age");
+// let weight = prompt ("Please enter your weight");
+// let gender = prompt ("Please enter your gender");
+// let res = prompt ("Please enter your resedeince");
+// if (age >= 18 || weight <= 85 || gender === 'male' || res === 'pakistan'){
+//     alert("You are eligible for the Pakarmy");
+// }
+// else {
+//     alert("Sorry!!! You are not eligible for the Pakarmy");
+// }
+
+
