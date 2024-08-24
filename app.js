@@ -101,3 +101,6 @@
 // let pets = ["dog", "cat", "hen", "parrot", "fish", "lizard"];
 // console.log(pets);
 
+// Array splice and slice
+// let pets = ["dog", "cat", "hen", "parrot", "fish", "lizard"];
+// console.log(pets);
