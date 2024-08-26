@@ -104,3 +104,29 @@
 // Array splice and slice
 // let pets = ["dog", "cat", "hen", "parrot", "fish", "lizard"];
 // console.log(pets);
+
+
+// Loops
+// for (let i = 0; i <=5; i++){
+//     console.log("Hello World");
+// }
+
+let citiesList = ["New York", "London", "Tokyo", "Sydney", "Paris", "Berlin"];
+
+let userCity = prompt("Enter the name of cleanest city:");
+
+for (let i = 0; i < citiesList.length; i++) {
+    if (citiesList[i] === userCity) {
+        if (userCity === "London") {
+            console.log("Cleanest city found: " + userCity);
+        } else {
+            console.log(userCity + " is not the cleanest city.");
+        }
+        break; 
+    }
+}
+
+if (!citiesList.includes(userCity)) {
+    console.log(userCity + " is not in the list.");
+}
+
